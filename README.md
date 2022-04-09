@@ -32,24 +32,24 @@
 
 4.
 <p align="center">
- <a href="https://github.com/Aj-fx/Aj-fx/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
+ <a href="https://github.com/Aj-fx/Kaztroser-v2/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
 
-5. https://heroku.com/deploy?template=https://github.com/Aj-fx/Aj-fx copy this url and change Aj-fx with your github username and go<br>
+5. https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser-v2 copy this url and change Aj-fx with your github username and go<br>
 
 
   <p align="center">
-  <a href="httsp://github.com/Aj-fx/Aj-fx">
+  <a href="httsp://github.com/Aj-fx/Kaztroser-v2">
    <p align="center">
-<a href="https://github.com/Aj-fx/Aj-fx/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
+<a href="https://github.com/Aj-fx/Kaztroser-v2/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
 <a href="https://github.com/Aj-fx/followers">
   <p align="center">
-<img src="https://img.shields.io/github/repo-size/Aj-fx/Aj-fx?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/Aj-fx/Kaztroser-v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Aj-fx/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Aj-fx/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Aj-fx/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Aj-fx/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Aj-fx?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Kaztroser-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Kaztroser-v2?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Kaztroser-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Kaztroser-v2?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Kaztroser-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Kaztroser-v2?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
