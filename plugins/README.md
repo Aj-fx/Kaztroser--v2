@@ -2,7 +2,7 @@
 
 <div align="center">  
   <p align="center">
-<span class="avatar"><img src="https://github.com/Aj-fx/Aj-fx/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
+<span class="avatar"><img src="https://github.com/Aj-fx/Kaztroser-v2/blob/master/plugins/Ctonfs8p1Jq5.gif"> </a></span>
 </p>
 <p align="center">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Ajfx-cyberchekuthan/Kaztroser?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -23,8 +23,8 @@
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Aj-fx/Aj-fx
-$ cd Aj-fx
+$ git clone https://github.com/Aj-fx/Kaztroser-v2
+$ cd Kaztroser-v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -32,8 +32,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Aj-fx/Aj-fx
-$ cd Aj-fx
+$ git clone https://github.com/Aj-fx/Kaztroser-v2
+$ cd Kaztroser-v2
 $ npm i
 $ node julie.js
 ```
